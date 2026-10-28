@@ -1,4 +1,4 @@
-# Harta e Produktit
+# Harta e Aplikacionit
 
 * **Puna e vetme e aplikacionit:** T'i lejojë përdoruesit të dëgjojnë dhe menaxhojnë listat e tyre të muzikës në mënyrë të shpejtë dhe pa shpërqendrime.
 * **Rrjedha kryesore (4 ekrane):**
