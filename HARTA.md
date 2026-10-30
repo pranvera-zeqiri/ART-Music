@@ -9,4 +9,4 @@
 * **Lista "brenda / jashtë" për MVP-në:**
   * **Brenda (Çka përfshihet tani):** Shfaqja e listës së këngëve, luajtja/ndalimi (play/pause), kalimi i këngëve dhe pamja bazë e player-it.
   * **Jashtë (Për më vonë):** Shkarkimi i këngëve offline, efektet e equalizer-it të avancuar dhe lidhja me serverë të jashtëm.
-<img width="1224" height="1285" alt="44310F92-16C2-4361-B528-7C880DD065F7" src="https://github.com/user-attachments/assets/f1808fc6-4358-4af2-a32d-2ad1cdf7f46a" />
+
