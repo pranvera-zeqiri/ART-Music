@@ -12,4 +12,4 @@
   * **Jashtë (Për më vonë):** Shkarkimi i këngëve offline, efektet e equalizer-it të avancuar dhe lidhja me serverë të jashtëm.
 
 
-
+<img width="1376" height="768" alt="unnamed" src="https://github.com/user-attachments/assets/d040305c-b7f3-4739-a03b-4021c0929b4b" />
