@@ -1,6 +1,6 @@
 # Të dhënat e Ekipit
 
-## Anëtarët:
+**Antarët:**
  * **Pranvera Zeqiri** - *Frontend Developer & UI/UX Design* (Dizajni, ndërfaqja dhe interaksionet)
  * **Elmedin Hyseni** - *Backend & Database Developer* (Menaxhimi i bazës së të dhënave dhe struktura)
 * **Ideja:** ART Music është një aplikacion i pavarur për luajtjen e muzikës që u mundëson përdoruesve të organizojnë dhe dëgjojnë këngë me një ndërfaqe të thjeshtë dhe të shpejtë.
